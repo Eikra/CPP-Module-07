@@ -11,6 +11,8 @@
 /* ************************************************************************** */
 
 #include "Array.hpp"
+#include <stdlib.h>     /* srand, rand */
+#include <time.h>
 
 #define MAX_VAL 750
 int main()

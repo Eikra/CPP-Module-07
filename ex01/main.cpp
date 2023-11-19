@@ -35,5 +35,4 @@ int main()
 
     Animal animals[3] = {Animal("cat"), Animal("dog"), Animal("elephant")};
     iter(animals, 3, f);
-    
 }
